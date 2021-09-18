@@ -48,6 +48,12 @@ export default function App() {
           </span>
         );
       })}
+
+      <div className="footer">
+        <h1>
+          This is an app used to learn the meaning of the emojis displayed.{" "}
+        </h1>
+      </div>
     </div>
   );
 }
