@@ -9,7 +9,9 @@ const emojiDictionary = {
   "🌺": "Hibiscus",
   "❤️": "Love",
   "😑": "Annoyance",
-  "😇": "Smiling Face with Halo"
+  "😇": "Smiling Face with Halo",
+  "😈": "Conveys mischief, naughtiness",
+  "🤦‍♂️": "Man Facepalming"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
